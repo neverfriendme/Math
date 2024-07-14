@@ -1,8 +1,8 @@
 def all_equal(arg1,arg2,arg3):
     if arg1 == arg2 == arg3:
         if True:
-            return True
+            print("True")
     else:
-        return False
+        print("False")
 
 all_equal(1,1,1)
